@@ -1,0 +1,40 @@
+p {
+  color: black;
+  font-size: xx-large;
+  background-color: aqua;
+  border: 2px dotted red;
+  border-bottom: 10px dashed pink;
+}
+body {
+  width: 50%;
+  height: 50%;
+  color: aqua;
+  font-family: fantasy;
+}
+.bgred {
+  background-color: red;
+  color: black;
+  font-family: Verdana, Geneva, Tahoma, sans-serif;
+  border-bottom: dashed lightgreen;
+}
+
+#para1 {
+  border: 5px dotted black;
+  font-family: cursive;
+  background-color: bisque;
+}
+#para2 {
+  border: 3 px dashes red;
+  font-family: "Franklin Gothic Medium", "Arial Narrow", Arial, sans-serif;
+  background-color: coral;
+}
+p {
+  background-color: darkmagenta;
+}
+
+.d-inline {
+  display: inline !important;
+}
+.d-block {
+  display: block !important;
+}
